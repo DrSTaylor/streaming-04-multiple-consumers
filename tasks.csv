@@ -1,7 +1,6 @@
-host,queue_name,message
-"""localhost""","""one""","""First task...."""
-"""localhost""","""two""","""Second task...."""
-"""localhost""","""three""","""Third task...."""
-"""localhost""","""four""","""Forth task…"""
-"""localhost""","""five""","""Fifth task…"""
-"""localhost""","""six""","""Sixth task…"""
+First task....next
+Second task....next
+Third task....next
+Forth task....next
+Fifth task....next
+Sixth task...done
