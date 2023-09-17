@@ -1,0 +1,8 @@
+2023-09-17 18:51:14,121.v3_emitter_of_tasks.INFO ==================================================
+2023-09-17 18:51:14,121.v3_emitter_of_tasks.INFO Today is 2023-09-17 at 06:51 PM
+2023-09-17 18:51:14,121.v3_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-17 18:51:14,122.v3_emitter_of_tasks.INFO Python version:  3.9.16
+2023-09-17 18:51:14,122.v3_emitter_of_tasks.INFO Python path: C:\Users\staylor\Anaconda3
+2023-09-17 18:51:14,122.v3_emitter_of_tasks.INFO Working dir: C:\Users\staylor\Documents\DataAnalytics\44671\Gits\streaming-04-multiple-consumers
+2023-09-17 18:51:14,122.v3_emitter_of_tasks.INFO ==================================================
+2023-09-17 18:51:19,103.v3_emitter_of_tasks.INFO Reading messages from tasks.csv...
