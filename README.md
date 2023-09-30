@@ -54,7 +54,11 @@ Which worker gets which tasks?
 
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 
-
 ## Screenshot
+![Module 4](https://github.com/DrSTaylor/streaming-04-multiple-consumers/assets/105294873/6c833e57-6888-4c91-a70b-6d39bf4d63b4)
+
+
+
+
 
 See a running example with at least 3 concurrent process windows here:
